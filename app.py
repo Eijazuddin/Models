@@ -5,8 +5,6 @@ import joblib
 
 st.title("Stress Model")
 
-data = pd.read_excel("C:/Users/eijaz/OneDrive/Desktop/stress_data.xlsx")
-
 posts = st.text_area("Enter your concern")
 
 if st.button("Predict"):
