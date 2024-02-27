@@ -1,0 +1,3 @@
+sickitlearn
+streamlit
+joblib
